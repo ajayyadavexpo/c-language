@@ -1,0 +1,8 @@
+Fist In First Out
+front and rear = -1
+
+enQueue()
+deQueue()
+peek()
+isFull()
+isEmpty();
