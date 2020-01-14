@@ -1,0 +1,7 @@
+Stack : Last in frist out like a pile of a plates.
+push()
+pop()
+esEmpty()
+isfull()
+peek() // Get the top element without removing it
+
