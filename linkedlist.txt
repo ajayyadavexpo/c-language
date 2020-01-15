@@ -1,0 +1,15 @@
+Advantages of linked list
+	Linked List is Dynamic data Structure.
+	You can change size of Linked List during program run time.
+	Insertion and Deletion Operations are Easier, you can insert any node at any place and also delete any node easily..
+	No memory wastage ,i.e no need to pre-allocate memory
+	Faster Access time,can be expanded in constant time without memory overhead
+	You can easily implement Linear Data Structures such as Stack,Queue using Linked list
+
+
+
+typedef is used to define a data type in C.
+
+malloc() is used to dynamically allocate a single block of memory in C, it is available in the header file stdlib.h.
+
+sizeof() is used to determine size in bytes of an element in C. Here it is used to determine size of each node and sent as a parameter to malloc.
